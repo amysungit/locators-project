@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Collections Project
+## Collections Project Structure
 
 *Default Structure for A Basic Project*
 
