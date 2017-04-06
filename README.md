@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Locators Project
+## Locators Project Structure
 
 *Default Structure for A Basic Project*
 
